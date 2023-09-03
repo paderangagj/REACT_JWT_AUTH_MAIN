@@ -1,0 +1,17 @@
+20230903	20:54:58	6090d91a-90ba-4983-b2f1-c8aae7aa3d3b	GET	undefined	/employees
+20230903	20:58:22	1089046e-ad1e-4218-9c38-ab59d84102b2	GET	undefined	/employees
+20230903	21:09:25	e407ff59-7ba5-44c0-9f57-841af4b2468c	OPTIONS	http://localhost:3001	/register
+20230903	21:25:14	6260345f-7896-4e47-85cc-dcb69efd69f6	OPTIONS	http://localhost:3001	/register
+20230903	21:27:13	ca9b6d80-bcc0-4096-ad42-dc5c410a8094	OPTIONS	http://localhost:3001	/register
+20230903	22:57:57	084d4f04-ecff-4845-8aba-9676120a36e2	OPTIONS	http://localhost:3000	/auth
+20230903	23:03:42	df1d296b-3109-4ffb-9dd9-e2776bd6af3c	OPTIONS	http://localhost:3000	/register
+20230903	23:37:48	0452cb25-196f-4ff5-bb9d-5ca679fd8093	OPTIONS	http://localhost:3001	/auth
+20230903	23:38:14	c5cd30e2-c3d2-4a21-ac87-c004b60af17f	OPTIONS	http://localhost:3001	/register
+20230903	23:39:17	5f2cfd2a-414f-4536-8dec-dba8cbd3b59f	OPTIONS	http://localhost:3001	/register
+20230903	23:39:18	9d4990ab-8863-40b0-8dd3-c6fe082a9faa	OPTIONS	http://localhost:3001	/register
+20230903	23:39:18	89b9d707-dcd3-40aa-85ca-0c93fd66b7d0	OPTIONS	http://localhost:3001	/register
+20230903	23:39:18	2f47d85e-9ead-4ba7-9c73-e6836a37b51e	OPTIONS	http://localhost:3001	/register
+20230903	23:39:18	76083581-1200-40e5-a5a1-56fc6c792088	OPTIONS	http://localhost:3001	/register
+20230903	23:39:19	c4eb7cfc-b43a-40a7-8e43-9dd42a943911	OPTIONS	http://localhost:3001	/register
+20230903	23:39:19	23ef069a-036b-4614-97b7-46ed1905acaf	OPTIONS	http://localhost:3001	/register
+20230903	23:39:19	833e82c1-c046-42ec-9265-0cea1be12a37	OPTIONS	http://localhost:3001	/register
